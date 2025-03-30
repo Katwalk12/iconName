@@ -1,0 +1,24 @@
+.body-cont{
+    background-color: black;
+    height: 300px;
+    width: 1600;
+}
+.first-name {
+    display: flex;
+    justify-content :center ;
+    margin: 10px;
+    padding: 20px;
+}
+.last-name{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+
+}
+i{
+    margin: 10px;
+    font-size: 50px;
+}
+span{
+    margin: 10px;
+}
