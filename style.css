@@ -1,7 +1,14 @@
+body{
+    background-image: url('skull.jpg');
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .body-cont{
-    background-color: black;
+    background-color: rgba(0,0, 0, 0.5);
     height: 300px;
     width: 1600;
+    margin: 140px 10px 0px 0px;
 }
 .first-name {
     display: flex;
@@ -16,7 +23,7 @@
 
 }
 i{
-    margin: 10px;
+    margin: 70px 10px 0px 0px;
     font-size: 50px;
 }
 span{
